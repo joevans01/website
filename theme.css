@@ -22,7 +22,7 @@ html {
 #Welcome {
 	background-color: lightgrey;
 	width: 700px;
-	height: 155px;
+	height: 175px;
 	padding: 10px 10px 10px 10px;
 	margin-left: 20px;
 	float: left;
@@ -32,7 +32,17 @@ html {
 	background-color: black;
 	color: white;
 	width: 800px;
-	height: 155px;
+	height: 175px;
+	padding: 10px 10px 10px 10px;
+	margin-left: 20px;
+	float: left;
+}
+
+#VB_Content {
+	background-color: black;
+	color: white;
+	width: 1535px;
+	height: 175px;
 	padding: 10px 10px 10px 10px;
 	margin-left: 20px;
 	float: left;
@@ -43,6 +53,6 @@ html {
 	text-align: center;
 	margin-top: 20px;
 	float: left;
-	height: 50px;
 	width: 1900px;
+	padding: 10px 10px 10px 10px;
 }
