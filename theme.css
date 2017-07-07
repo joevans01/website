@@ -1,0 +1,39 @@
+html {
+	font-family: verdana;
+}
+
+#Wrapper {
+	width: 1900px;
+	clear: both;
+}
+
+#Header {
+	background-color: lightblue;
+	text-align: center;
+}
+
+#Navigation {
+	background-color: lightblue;
+	width: 300px;
+	padding: 10px 10px 10px 10px;
+	float: left;
+}
+
+#Welcome {
+	background-color: lightgrey;
+	width: 700px;
+	height: 155px;
+	padding: 10px 10px 10px 10px;
+	margin-left: 20px;
+	float: left;
+}
+
+#Content {
+	background-color: black;
+	color: white;
+	width: 800px;
+	height: 155px;
+	padding: 10px 10px 10px 10px;
+	margin-left: 20px;
+	float: left;
+}
