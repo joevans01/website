@@ -1,3 +1,3 @@
 Please Visit my website at:
 
-joevans01.github.io/webiste
+joevans01.github.io/website
