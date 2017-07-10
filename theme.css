@@ -82,9 +82,9 @@ html {
 	margin-bottom: 20px;
 }
 
-#V0B_Task1_IMG4 {
+#VB_Task1_IMG4 {
 	float: left;
-	margin-left: 20px;
+	margin-left: 80px;
 	margin-bottom: 20px;
 }
 
@@ -106,11 +106,25 @@ html {
 	margin-bottom: 20px;
 }
 
+h2 {
+	float: left;
+	width: 1900px;
+	margin-bottom: 10px;
+}
+
+#VB_Footer {
+	background-color: #47e8b5;
+	float: left;
+	width: 1900px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
 #Footer {
 	background-color: #47e8b5;
 	text-align: center;
 	float: left;
 	margin-top: 20px;
 	width: 1900px;
-	padding: 10px 10px 10px 10px;
 }
