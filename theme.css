@@ -42,11 +42,11 @@ html {
 #VB_Content {
 	background-color: black;
 	color: white;
-	float: left;
-	width: 1400px;
+	width: 1500px;
 	height: 175px;
 	padding: 10px 10px 10px 10px;
 	margin-left: 20px;
+	float: left;
 }
 
 #VB_Task1 {
