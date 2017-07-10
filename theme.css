@@ -121,6 +121,28 @@ h2 {
 	padding-bottom: 10px;
 }
 
+#Down_Content {
+	background-color: lightgrey;
+	width: 1500px;
+	height: 175px;
+	padding: 10px 10px 10px 10px;
+	margin-left: 20px;
+	float: left;
+}
+
+#Download_Section {
+	float: left;
+	background-color: #4646C6;
+	margin-top: 20px;
+	color: white;
+	width: 1900px;
+	text-align: center;
+}
+
+#Download_Section a:link {
+	color: red;
+}
+
 #Footer {
 	background-color: #47e8b5;
 	text-align: center;
