@@ -143,6 +143,15 @@ h2 {
 	color: red;
 }
 
+#Contact_Content {
+	width: 1500px;
+	background-color: #b9f442;
+	float: left;
+	height: 195px;
+	margin-left: 20px;
+	padding-left: 10px;
+}
+
 #Footer {
 	background-color: #47e8b5;
 	text-align: center;
