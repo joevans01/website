@@ -23,7 +23,7 @@ html {
 #Welcome {
 	background-color: lightgrey;
 	width: 700px;
-	height: 175px;
+	height: 192px;
 	padding: 10px 10px 10px 10px;
 	margin-left: 20px;
 	float: left;
@@ -33,7 +33,7 @@ html {
 	background-color: black;
 	color: white;
 	width: 800px;
-	height: 175px;
+	height: 192px;
 	padding: 10px 10px 10px 10px;
 	margin-left: 20px;
 	float: left;
@@ -43,7 +43,7 @@ html {
 	background-color: black;
 	color: white;
 	width: 1500px;
-	height: 175px;
+	height: 192px;
 	padding: 10px 10px 10px 10px;
 	margin-left: 20px;
 	float: left;
@@ -124,7 +124,7 @@ h2 {
 #Down_Content {
 	background-color: lightgrey;
 	width: 1500px;
-	height: 175px;
+	height: 192px;
 	padding: 10px 10px 10px 10px;
 	margin-left: 20px;
 	float: left;
@@ -147,9 +147,36 @@ h2 {
 	width: 1500px;
 	background-color: #b9f442;
 	float: left;
-	height: 195px;
+	height: 212px;
 	margin-left: 20px;
 	padding-left: 10px;
+}
+
+#Flow_Content {
+	width: 1900px;
+	float: left;
+	background-color: #b9f442;
+	text-align: center;
+	height: 550px;
+	margin-top: 15px;
+	padding-top: 10px;
+}
+
+#Flow_Title {
+	font-family: Courier New;
+	text-decoration: underline;
+}
+
+#Flow_Symbols {
+	float: left;
+	margin-left: 30px;
+}
+
+#Flow_info {
+	float: left;
+	margin-left: 15px;
+	margin-top: 40px;
+	text-align: left;
 }
 
 #Footer {
