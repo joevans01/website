@@ -9,7 +9,7 @@
 			<h1>Contact</h1>
 		</div>
 	<div id="Wrapper">
-		<div id="Navigation">
+		<div id="Contact_Navigation">
 			<h1>Navigation</h1>
 			<ul>
 				<a href="index.html">Home</a>
@@ -24,11 +24,60 @@
 			</ul>
 		</div>
 		<div id="Contact">
-			<p>To contact me about programming of any sort please use my email: evansj37@gmail.com</p>
-		</div>
-	</div>
-	<div id="Footer">
-		<p>Copyright &copy; Joe Evans 2017</p>
-	</div>
+			<p>To contact me about programming of any sort please use the form below:</p>
+			<form name="htmlform" method="post" action="html_form_send.php" style="margin-left: 85px">
+		<table width="450px">
+	</tr>
+	<tr>
+ 	<td valign="top">
+  		<label for="first_name">First Name *</label>
+ 	</td>
+ 	<td valign="top">
+  		<input  type="text" name="first_name" maxlength="50" size="30">
+ 	</td>
+	</tr>
+ 	<tr>
+ 	<td valign="top"">
+  		<label for="last_name">Last Name *</label>
+ 	</td>
+ 	<td valign="top">
+  		<input  type="text" name="last_name" maxlength="50" size="30">
+ 	</td>
+	</tr>
+	<tr>
+	<td valign="top">
+  		<label for="email">Email Address *</label>
+ 	</td>
+ 	<td valign="top">
+  		<input  type="text" name="email" maxlength="80" size="30">
+ 	</td>
+ 	</tr>
+	<tr>
+ 	<td valign="top">
+  		<label for="telephone">Telephone Number</label>
+ 	</td>
+ 	<td valign="top">
+  		<input  type="text" name="telephone" maxlength="30" size="30">
+ 	</td>
+	</tr>
+	<tr>
+	<td valign="top">
+  		<label for="comments">Comments *</label>
+ 	</td>
+ 	<td valign="top">
+  		<textarea  name="comments" maxlength="1000" cols="25" rows="6"></textarea>
+ 	</td>
+ 	</tr>
+	<tr>
+ 	<td colspan="2" style="text-align:center">
+  		<input type="submit" value="Submit">
+ 	</td>
+	</tr>
+	</table>
+	</form>
+			</div>	
+<div id="Footer">
+	<p>Copyright &copy; Joe Evans 2017</p>
+</div>
 </body>
 </html>

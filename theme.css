@@ -20,6 +20,14 @@ html {
 	float: left;
 }
 
+#Contact_Navigation {
+	background-color: lightblue;
+	width: 300px;
+	height: 295px;
+	padding: 10px 10px 10px 10px;
+	float: left;
+}
+
 #Welcome {
 	background-color: lightgrey;
 	width: 700px;
@@ -147,7 +155,7 @@ h2 {
 	width: 1500px;
 	background-color: #b9f442;
 	float: left;
-	height: 212px;
+	height: 312px;
 	margin-left: 20px;
 	padding-left: 10px;
 }
